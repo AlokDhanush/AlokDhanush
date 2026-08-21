@@ -80,7 +80,7 @@ Metadata: {
   <a href="https://play.google.com/store/apps/details?id=com.gravitynexusstudio.gradstack" target="_blank">
     <img src="https://img.shields.io/badge/Play_Store-GradStack-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
   </a>
-  <a href="mailto:dhanusham1723@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -199,10 +199,10 @@ I built and published **GradStack** on the Google Play Store — turning a real-
   />
 </div>
 
-<!-- ── Row 3: GitHub Streak (full-width, matching the kabsha1 style) ── -->
+<!-- ── Row 3: GitHub Streak ── -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AlokDhanush&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=6272a4"
+    src="https://streak-stats.demolab.com?user=AlokDhanush&theme=dracula&hide_border=true"
     alt="GitHub Streak"
     width="70%"
   />
