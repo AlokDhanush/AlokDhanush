@@ -80,7 +80,7 @@ Metadata: {
   <a href="https://play.google.com/store/apps/details?id=com.gravitynexusstudio.gradstack" target="_blank">
     <img src="https://img.shields.io/badge/Play_Store-GradStack-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:dhanusham1723@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -199,13 +199,30 @@ I built and published **GradStack** on the Google Play Store — turning a real-
   />
 </div>
 
-<!-- ── Row 3: GitHub Streak ── -->
+<!-- ── Row 3: Streak Stats (github-profile-summary-cards — same service already loading above) ── -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AlokDhanush&theme=dracula&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlokDhanush&theme=dracula&utcOffset=5.5"
+    alt="Productive Time"
+    width="49%"
   />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlokDhanush&theme=dracula"
+    alt="GitHub Stats Summary"
+    width="49%"
+  />
+</div>
+
+<!-- ── Row 3b: GitHub Contribution Chart (no API token required — always loads) ── -->
+<div align="center">
+  <a href="https://github.com/AlokDhanush">
+    <img
+      src="https://ghchart.rshah.org/bd93f9/AlokDhanush"
+      alt="Dhanush's GitHub Contribution Chart"
+      width="100%"
+    />
+  </a>
 </div>
 
 <!-- ── Row 4: Contribution Activity Graph ── -->
