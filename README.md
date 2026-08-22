@@ -96,7 +96,7 @@ I am **Dhanush A M** — a passionate developer, lifelong learner, and app creat
 
 - 🔭 **Current Focus**: Building real-world web & mobile applications.
 - 🌱 **Learning**: Web Development, DSA, and Software Engineering fundamentals.
-- 📱 **Published**: I built and published **GradStack** on the Google Play Store!
+- 📱 **Published**: I built and published **Endless Zombies: Survival War** and **GradStack** on the Google Play Store!
 - 🌐 **Portfolio**: [alokdhanush.github.io/my-portfolio](https://alokdhanush.github.io/my-portfolio/)
 - 💬 **Ask me about**: Programming basics, beginner projects, and developer learning strategies.
 - 🎯 **Goal**: To become a well-rounded software engineer who ships meaningful products.
